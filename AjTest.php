@@ -1,3 +1,3 @@
 <?php
-echo "Hi.... from local dir";
+echo "Hi.... from local Directory";
 ?>
