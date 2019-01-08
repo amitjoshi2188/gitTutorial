@@ -1,4 +1,4 @@
 <?php
-$array = new array();
-
+$array = new array('item1','item2');
+print_r($array);
 ?>
