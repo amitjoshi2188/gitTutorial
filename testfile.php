@@ -1,4 +1,3 @@
 <?php
-$array = new array();
-
+$array = new array('item3','item4');
 ?>
